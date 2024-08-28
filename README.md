@@ -1,45 +1,10 @@
-# This  is a web application that focuses on user authentication and registration. It consists of a Login Page and Registration Page frontend and a backend, each with specific functionalities.
-## Technology Used
 
-| Technology | Features |
-|------------|----------|
-|   React.js      |  Frontend of the application |    
-| Redux | State Management|    
-| Node.js, Express.js    |  Backend of the application  |   
-|    MongoDB Atlas, Mongoose    | Database for the application|
-| Bcrypt     |    Password Management      |   
-| JSON Web Token     |    Authorization and Authentication |
-| Render     |     Deployment     |  
-| Postman | API Testing, Debugging and Documentation |
-| Firebase | Sign in with Google|
-
-## Top-level directory structure
-
-	├── client                   # Frontend React.js directory
-	│   ├── public              # Public assets for the React app (images, etc.)
-	│   ├── src                 # React application source code
-	│   │   ├── components      # Reusable UI components
-	│   │   ├── pages           # Individual page components
-	│   │   ├── App.js          # Root component
-	│   │   ├── index.js        # Entry point for React app
-	│   │   └── ...             # Other React-related files and folders
-	├── api                 # Backend Node.js/Express directory
-	│   ├── controllers         # Controllers for handling requests
-	│   ├── models              # Database models and schemas
-	│   ├── routes              # API route handlers
-	│   ├── utils               # Utility files
-	│   ├── views               # Templates for rendering server-side views
-	│   ├── app.js              # Express app setup
-	│   ├── package-lock.json   # Node.js package lock
-	│   └── package.json        # Node.js package information
-	├── .gitignore             
-	└── README.md
 ##  Installation
 <br>
 
 To setup the project on your local environment, follow the given steps:
 
-1. Fork the [SainiAditya1/MERN_AUTH](https://github.com/SainiAditya1/MERN_AUTH) repository.
+1. Fork the [SainiAditya1/MERN_AUTH](https://github.com/SainiAditya1/Video.git) repository.
 2. Clone the repository:
 ```
 https://github.com/<USERNAME>/MERN_AUTH
