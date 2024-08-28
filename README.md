@@ -1,19 +1,12 @@
 
 ##  Installation
 <br>
-
-To setup the project on your local environment, follow the given steps:
-
-1. Fork the [SainiAditya1/MERN_AUTH](https://github.com/SainiAditya1/Video.git) repository.
-2. Clone the repository:
 ```
-https://github.com/<USERNAME>/MERN_AUTH
+git clone https://github.com/SainiAditya1/Video.git
+```
 
 ```
 
-  Replace the `<USERNAME>` with your GitHub username. 
-
-  ### Frontend
 
 Move to the client directory
 
